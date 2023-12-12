@@ -1,0 +1,2 @@
+# SFC
+simple finger counter
